@@ -6,7 +6,7 @@ const strings = [ "rock", "paper", "scissors"]; //Array of strings
 const randomIndex = Math.floor(Math.random() * strings.length); // Generate a random string
 return strings[randomIndex];
 }
-console.log(getComputerChoice());
+console.log("Computer chose: " + getComputerChoice());
 
 
 // Get Human Choice
