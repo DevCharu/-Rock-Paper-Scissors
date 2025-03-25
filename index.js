@@ -25,3 +25,10 @@ return choice;
     console.log("You chose: " + userChoice);
 
 }
+
+
+// Creating two Global Variables.
+
+let humanScore = 0; // Initialize the variable to the value of 0
+let computerScore = 0; // Initialize the variable to the value of 0
+
